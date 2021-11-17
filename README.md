@@ -1,7 +1,7 @@
 # Fractal Generator 
 
 Uses C++ code that is rendered using OpenGL and the GLFW framework.
-Creates 4 different fractal types (Sierpinski Triangle, Squares and Diamonds, Koch Snowflake, and Dragon Curve) that have interactive feactures via keyboard controls.
+Creates 4 different fractal types (Sierpinski Triangle, Squares and Diamonds, Koch Snowflake, and Dragon Curve) that have interactive feactures via keyboard controls. Each depth of the fractal will display as a different randomly generated color.
 
 ## Keyboard Controls
 Change scenes:
