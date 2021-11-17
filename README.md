@@ -4,7 +4,7 @@ Uses C++ code that is rendered using OpenGL and the GLFW framework.
 Creates 4 different fractal types (Sierpinski Triangle, Squares and Diamonds, Koch Snowflake, and Dragon Curve) that have interactive feactures via keyboard controls. Each depth of the fractal will display as a different randomly generated color.
 
 ## Keyboard Controls
-Change scenes:
+### Change scenes:
 -------------
 1 Key - Sierpinski Triangle
 
@@ -14,7 +14,7 @@ Change scenes:
 
 4 Key - Dragon Curve
 
-Change depths:
+### Change depths:
 -------------
 Left Arrow Key - decreases depth down to 0
 
