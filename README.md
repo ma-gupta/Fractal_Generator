@@ -7,13 +7,17 @@ Creates 4 different fractal types (Sierpinski Triangle, Squares and Diamonds, Ko
 Change scenes:
 -------------
 1 Key - Sierpinski Triangle
+
 2 Key - Squares and Diamonds
+
 3 Key - Koch Snowflake
+
 4 Key - Dragon Curve
 
 Change depths:
 -------------
 Left Arrow Key - decreases depth down to 0
+
 Right Arrow Key - increases depth up to 6
 
 ## Running and Compiling
